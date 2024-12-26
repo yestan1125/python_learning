@@ -1,2 +1,2 @@
 # python_learning
-man，what can i say?
+A repository for storing Python code.
