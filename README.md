@@ -1,5 +1,4 @@
 # python_learning
-A repository for storing Python code.
 
 以下是一份Python学习路线图：
 
